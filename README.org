@@ -1,0 +1,10 @@
+#+TITLE: atcoder-scraper
+
+* TL; DR
+  #+BEGIN_SRC shell
+$ atcoder-scraper atcoder-express/atcoder-express.cpp https://atcoder.jp/contests/abc076/tasks/abc076_d
+  #+END_SRC
+
+  These files will be created:
+  - atcoder-express/atcoder-express.cpp.qrinput1
+  - atcoder-express/atcoder-express.cpp.qrinput2
