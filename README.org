@@ -1,5 +1,8 @@
 #+TITLE: atcoder-scraper
 
+* Deprecated
+  Use [[https://github.com/kyuridenamida/atcoder-tools][atcoder-tools]] instead.
+
 * TL; DR
   #+BEGIN_SRC shell
 $ atcoder-scraper https://atcoder.jp/contests/abc076/tasks/abc076_d
